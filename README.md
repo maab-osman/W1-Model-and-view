@@ -1,2 +1,2 @@
 # W1-Model-and-view
-The first week's homework that includes excercises 1-5.
+The seconds week's homework that includes excercises 1-5.
